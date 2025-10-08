@@ -1,5 +1,5 @@
 # ------------------------------------------
-# Day 7: File Handling Practice
+# Day 7: Daily-code-practice/Day7.py
 # Author: Temesgen Meharie
 # Description:
 # This program allows the user to enter their name and message,
