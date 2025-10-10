@@ -95,7 +95,7 @@ while True:  # Infinite loop for menu until user exits
 
     # ------------------------------------------
     # ADDITION, SUBTRACTION, MULTIPLICATION, DIVISION, POWER, PERCENTAGE
-    if choice in ['1','2','3','4','5','7']:
+    if choice in ['1','2','3','4','5','7','7']:
         try:
             num1 = float(input("Enter first number: "))  # First number
             num2 = float(input("Enter second number: "))  # Second number
