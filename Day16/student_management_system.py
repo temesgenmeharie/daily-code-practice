@@ -1,5 +1,4 @@
 """
-student_management_system.py
 Enhanced Student Management System
 - Uses OOP (Student class + StudentManagementSystem manager)
 - Input validation and error handling

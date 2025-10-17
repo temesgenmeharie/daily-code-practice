@@ -1,0 +1,10 @@
+{
+    "1234": {
+        "book_id": "1234",
+        "title": "ab",
+        "author": "dr",
+        "year": 2018,
+        "borrowed_by": null,
+        "borrowed_at": null
+    }
+}
