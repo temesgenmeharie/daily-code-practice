@@ -1,5 +1,4 @@
 """
-library_system.py
 Professional Library Management System
 - OOP: Book, User, Library classes
 - File persistence using JSON
